@@ -1,0 +1,4 @@
+/*si el usuario lo toca, se agrega el ng-touched*/
+input.ng-invalid.ng-touched {
+	border: 1px solid red;
+}
